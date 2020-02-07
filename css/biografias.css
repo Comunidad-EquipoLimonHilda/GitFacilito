@@ -1,0 +1,22 @@
+body{
+	background-repeat: no-repeat;
+	background-position: 50% 0;
+	background-color: gray;
+}
+
+h1, h2 {
+	text-align: center;
+	color: #fff;
+}
+
+p{
+	text-align: center;
+	color: #fff;
+	font-family: arial;
+
+}
+
+.imagen{
+	position: relative;
+	left: 320px;
+}
