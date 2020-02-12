@@ -30,3 +30,13 @@ body {
 	padding: 10px 10px 10px 10px;
 	font-family: arial;
 }
+
+.imagen2{
+	position: absolute;
+	left: 500px;
+	top: 50px;
+	width: 900px;
+	margin: 10px;
+	padding: 10px 10px 10px 10px;
+	font-family: arial;
+}
